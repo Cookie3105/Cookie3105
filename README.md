@@ -122,15 +122,15 @@ Four completely unrelated facts that somehow describe me surprisingly well:
 -->
 
 <a href="https://www.linkedin.com/in/andrea-tremamunno-5989052a1">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" width="100" height="100" padding-right="10"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" width="80" height="80"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Light.svg" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Light.svg" width="80" height="80"/>
 </a>
 
 <a href="https://www.instagram.com/andrea.tremamunno">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Instagram.svg" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Instagram.svg" width="80" height="80"/>
 </a>
 
 </p>
