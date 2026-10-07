@@ -1,6 +1,6 @@
 # 🤗 Hi, I'm Andrea
 
-### Software Development Student
+### Software Developer
 
 I'm **Andrea**, a 21-year-old student at the **University of Bari Aldo Moro**, passionate about building software and turning ideas into things people can actually use.
 
