@@ -19,8 +19,6 @@ I'm particularly interested in **full-stack software development**, with a focus
 🎂 Age              21
 💻 Focus            Full-Stack Development
 📱 Platforms        Mobile · Desktop · Web
-🥋 Outside code     3rd-Degree Karate Black Belt
-📸 Creative side    Photography
 ```
 
 I'm always looking for new problems to solve, technologies to explore and projects that let me learn something new.
@@ -44,37 +42,6 @@ I'm particularly interested in:
 * 🧠 Software architecture
 * 🎨 User experience & interfaces
 * 🔍 Exploring new technologies
-
----
-
-# 🛠️ Skill Stack
-
-### Languages
-
-<p>
-  <!-- Add your language badges here -->
-  <img src="https://img.shields.io/badge/Language-Coming%20Soon-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Coming%20Soon-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Coming%20Soon-informational?style=for-the-badge" />
-</p>
-
-### Development
-
-<p>
-  <img src="https://img.shields.io/badge/Web-Development-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Development-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-Development-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Desktop-Development-2ea44f?style=for-the-badge" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <!-- Replace / expand these with your actual stack -->
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
 
 ---
 
@@ -130,19 +97,6 @@ I like keeping track of what I'm building, experimenting with and learning.
 
 ---
 
-# 📈 Currently
-
-```text
-🔨 Building        → Projects that challenge me
-📚 Learning        → New technologies & better engineering practices
-🧠 Exploring       → Full-stack development
-🚀 Growing         → Both technically and professionally
-```
-
-I believe the best way to learn software development is to **build things, break things, understand why they broke, and build them better.**
-
----
-
 # 🎯 Fun Facts
 
 Four completely unrelated facts that somehow describe me surprisingly well:
@@ -168,15 +122,15 @@ Four completely unrelated facts that somehow describe me surprisingly well:
 -->
 
 <a href="https://www.linkedin.com/in/andrea-tremamunno-5989052a1">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" width="100" height="100" padding-right="10"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Light.svg" width="100" height="100"/>
 </a>
 
 <a href="https://www.instagram.com/andrea.tremamunno">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Instagram.svg" width="100" height="100"/>
 </a>
 
 </p>
