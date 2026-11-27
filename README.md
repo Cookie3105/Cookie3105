@@ -29,23 +29,6 @@ My goal isn't just to write code that works.
 
 ---
 
-## 🧩 What I Build
-
-My interests sit at the intersection of software, usability and experimentation.
-
-I'm particularly interested in:
-
-* 🌐 Web applications
-* 📱 Mobile applications
-* 🖥️ Desktop applications
-* ⚙️ Full-stack systems
-* 🧠 Software architecture
-* 🎨 User experience & interfaces
-* 🔍 Exploring new technologies
-
----
-
-<!--
 # 🚀 My Favourite Project
 
 A small section showcasing my favorite project.
@@ -55,32 +38,35 @@ A small section showcasing my favorite project.
 ## 01 · 🧠 Project Name
 
 <p align="center">
-  <img src="YOUR_PROJECT_1_IMAGE_URL" width="800" alt="Project 1 preview">
+  <img src="https://github.com/Cookie3105/Cyber-Battle/blob/main/Images/cyberbattle-landing.png" width="800" alt="Cyber Battle game preview">
 </p>
 
-### `Project Name`
+### Cyber Battle — Red Team vs Blue Team
 
-> A short one-line description of what the project does and why you built it.
+> An interactive cybersecurity card game where Red and Blue Teams compete through simulated cyberattacks, defensive strategies and random events.
 
 **What it is**
 
-Describe the project here in 2–4 sentences. Explain the problem, your approach and what makes the project interesting.
+Cyber Battle is a browser-based educational game designed to simulate real-world Red Team vs Blue Team scenarios. Players take the role of either an attacker or a defender, using strategic cards to compromise or protect a virtual company's infrastructure.
+The game features turn-based mechanics, an AI-controlled opponent, random events, dice rolls and a dynamic system integrity indicator. Its goal is to make cybersecurity concepts more engaging and accessible through interactive gameplay.
 
 **Highlights**
 
-* ⚡ Interesting technical feature
-* 🧠 Something you learned
-* 🎨 UI/UX or architectural decision
-* 🚀 Something you're particularly proud of
+* ⚡ Turn-Based Gameplay — A strategic battle across 5 rounds, where every decision can change the outcome.
+* 🧠 Cybersecurity Learning — Explore attack vectors, defensive countermeasures and incident response concepts.
+* 🎴 Card-Based Mechanics — Use attack and defense cards with different effects and mitigation capabilities.
+* 🎲 Random Events — Dice rolls introduce unexpected situations that affect the game.
+* 🤖 AI Opponent — Play as Red Team or Blue Team against an automated opponent.
+* 🎨 Neo-Brutalist UI — A distinctive interface featuring bold borders, vibrant colors, geometric grids and responsive layouts.
+* 📊 Dynamic Statistics — Track system integrity, damage dealt, damage prevented and final match results.
 
 **Stack**
 
-`Technology` · `Technology` · `Technology` · `Technology`
+`HTML5` · `CSS3` · `JavaScript` · `Google Fonts`
 
-[🔗 View Project](YOUR_PROJECT_1_URL) · [💻 Source Code](YOUR_PROJECT_1_GITHUB_URL)
+[🔗 View Project](https://github.com/Cookie3105/Cyber-Battle) · [💻 Source Code](https://github.com/Cookie3105/Cyber-Battle)
 
 ---
--->
 
 # 📊 Dev Activity
 
@@ -108,32 +94,6 @@ Four completely unrelated facts that somehow describe me surprisingly well:
 🥋 I'm a **3rd-degree black belt in Karate**.
 
 📸 **I really enjoy taking photos of everything I see.**
-
----
-
-# 🌐 Find Me Online
-
-<p align="center">
-  
-<!--
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge" />
-</a>
--->
-
-<a href="https://www.linkedin.com/in/andrea-tremamunno-5989052a1">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" width="80" height="80"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Light.svg" width="80" height="80"/>
-</a>
-
-<a href="https://www.instagram.com/andrea.tremamunno">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Instagram.svg" width="80" height="80"/>
-</a>
-
-</p>
 
 ---
 
