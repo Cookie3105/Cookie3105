@@ -35,7 +35,7 @@ A small section showcasing my favorite project.
 
 ---
 
-## 01 · 🧠 Project Name
+## 01 · 🧠 Cyber Battle — Red Team vs Blue Team
 
 <p align="center">
   <img src="https://github.com/Cookie3105/Cyber-Battle/blob/main/Images/cyberbattle-landing.png" width="800" alt="Cyber Battle game preview">
