@@ -68,21 +68,6 @@ The game features turn-based mechanics, an AI-controlled opponent, random events
 
 ---
 
-# 📊 Dev Activity
-
-I like keeping track of what I'm building, experimenting with and learning.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cookie3105&show_icons=true&hide_border=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cookie3105&layout=compact&hide_border=true&theme=transparent" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub streak" />
-</p>
-
----
-
 # 🎯 Fun Facts
 
 Four completely unrelated facts that somehow describe me surprisingly well:
